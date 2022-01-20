@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Kelvin for giving me this opportunity to work on the project </h1>
+   <h1> Thankyou, This webpage is nowbeing deployed using PollSCM </h1>
 
   
 </form>
